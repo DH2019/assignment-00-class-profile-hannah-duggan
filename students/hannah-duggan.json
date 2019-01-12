@@ -1,0 +1,14 @@
+{
+  "firstName": "Hannah",
+  "lastName": "Duggan",
+  "nickName": "Hannah",
+  "privateName": false,
+  "picture": "IMG_7776.jpg",
+  "privatePicture": false,
+  "email": "hannah.duggan@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "hannah-duggan",
+  "privateGithub": false,
+  "superpower" : "swimming",
+  "academicinterests": "World War 2 "
+}
